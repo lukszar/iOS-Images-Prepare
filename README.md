@@ -4,11 +4,11 @@ iOS-Images-Prepare
 It is service made in automator making preparing 3 sizes of image (@3x, @2x, normal size) of Image Assets very simple and fast.
 Script let you create image in 3 sizes needed for Image Assets in XCode. Script automatically give proper name for each of 3 images.
 
-#Instalation
+# Instalation
 
 Double click on script to install in system.
 
-#You need...
+# You need...
 
 Image with proper resolution (resolution of @3x image) and proper extension .jpg or .png. 
 
@@ -21,7 +21,7 @@ Script will make 3 files from it:
 - arrowIcon@2x.png 	(60x60 px)
 - arrowIcon.png 	(30x30 px)
 
-#Using
+# Using
 
 1. Click right button on image file.
 2. Choose Services -> Create @3x
